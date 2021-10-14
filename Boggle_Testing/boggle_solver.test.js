@@ -1,4 +1,6 @@
-
+// Worked with Nia Anderson & Tyrone Smith 
+// <Javid Mitchell>
+// SID: @02923310
 const boggle_solver = require('./boggle_solver');
 
 // Tests to validate submissions:
